@@ -1,7 +1,7 @@
 class CouponsController < ApplicationController
 
 
-  def create_table
+  def create
 
   end
 end
