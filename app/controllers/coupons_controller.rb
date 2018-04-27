@@ -1,4 +1,4 @@
-class CouponsController < ApplicationController
+class CouponController < ApplicationController
 
 
   def create
